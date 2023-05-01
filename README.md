@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jGallese, 20 yo from Argentina, currently studying software engineering at UTN.
+- 👋 Hi, I’m @jGallese, 21 yo from Argentina, currently studying software engineering at UTN.
 
 - 👀 I’m interested in learning front-end web development, mobile development,desing principles. Also, would like to dive into the blockchain world, interacting with Smart Contracts.
 
