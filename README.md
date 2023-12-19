@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @jGallese, 21 yo from Argentina, currently studying software engineering at UTN.
 
-- 👀 I’m interested in learning front-end web development, mobile development,desing principles. Also, would like to dive into the blockchain world, interacting with Smart Contracts.
-
-- 🌱 I’m currently learning JavaScript (should do it more often, but time is actually limited)
+- 👀 I’m currently learning front-end web development. Also, I would like to dive into the ML world. 
 - 💞️ I’m looking to collaborate on any projects that would help improving my programming capacity and soft skills.
 - 📫 How to reach me? Well, thats an interesting question, if interested, my email is juancruz.gallese@gmail.com
 
